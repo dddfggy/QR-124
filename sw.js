@@ -1,6 +1,6 @@
 const CACHE_NAME = 'synctimer-cache-v1';
 const urlsToCache = [
-  './SyncTimer_QR.html',
+  './index.html',
   'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap',
   'https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/web-512dp/logo_ai_studio_color_1x_web_512dp.png'
 ];
