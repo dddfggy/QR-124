@@ -1,0 +1,15 @@
+{
+  "name": "SyncTimer QR",
+  "short_name": "SyncTimer",
+  "start_url": "./SyncTimer_QR.html",
+  "display": "standalone",
+  "background_color": "#F8F8F7",
+  "theme_color": "#076eff",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/web-512dp/logo_ai_studio_color_1x_web_512dp.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
