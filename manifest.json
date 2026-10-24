@@ -1,7 +1,7 @@
 {
   "name": "SyncTimer QR",
   "short_name": "SyncTimer",
-  "start_url": "./SyncTimer_QR.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F8F8F7",
   "theme_color": "#076eff",
