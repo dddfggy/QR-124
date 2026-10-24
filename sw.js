@@ -1,5 +1,5 @@
 // SyncTimer QR - Service Worker for GitHub Pages & Static Hosting
-const CACHE_NAME = 'synctimer-qr-v1';
+const CACHE_NAME = 'synctimer-qr-v2';
 
 // オフライン動作用にプリキャッシュするファイル一覧
 const PRECACHE_ASSETS = [
